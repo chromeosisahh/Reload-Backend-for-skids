@@ -58,7 +58,7 @@ module.exports = {
             .setColor("GREEN")
             .setFooter({
                 text: "Reload Backend",
-                iconURL: "https://cdn.discordapp.com/attachments/1358194526652727467/1358211573453426708/Ascend_Icon.png?ex=69637fd9&is=69622e59&hm=9fb087c23676781417a3c87f9ec8946e378228fed23ed1a2458f6197a2626c49&"
+                iconURL: "https://camo.githubusercontent.com/f3be1cb6306b7b58cfd5973d23e18353b86e53ca1f80eaf72fb697cb04e08bd3/68747470733a2f2f692e696d6775722e636f6d2f645347597735312e706e67" // alby er en kvikk lunsj spiser skid og fix bildene feit dumbe faen
             })
             .setTimestamp();
 
